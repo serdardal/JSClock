@@ -1,0 +1,25 @@
+.box{
+    font-family: Cambria;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    color:#444;
+    height: 30px;
+    width: 15px;
+    vertical-align: middle;
+}
+
+.red{
+    color:red;
+    font-size: 24px;
+}
+
+.outer{
+    height: 100px;
+    width: 20px;
+}
+
+.center{
+    width: auto;
+    margin: 10px auto;   
+}
